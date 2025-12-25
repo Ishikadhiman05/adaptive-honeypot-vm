@@ -7,7 +7,7 @@ cybersecurity research and encrypted attack analysis.
 
 Due to file size limitations, the virtual machine is hosted externally.
 
-🔗 **Download VM**: <PASTE YOUR MEGA / DROPBOX LINK HERE>
+🔗 **Download VM**: https://mega.nz/file/St43kTjZ#gaqxJkiynKXYttUfZYUDIq-aMI3IjIsJUKYysK6mfJA
 
 ## Environment
 - Platform: Linux
